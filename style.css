@@ -1,5 +1,6 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+
 *{
     font-family: "Mulish", serif;
 }
@@ -304,6 +305,7 @@ footer{
     margin-top: 50px;
 }
 .foo{
+    font-family: "Inter", serif;
     font-weight: 300;
     font-size: 16px;
     color: #131318;
